@@ -1,0 +1,8 @@
+﻿ENGLISH THEME: Go-Go Town First Week
+
+These 5 images belong to this theme only:
+1. 01-meet-town-rep.png
+2. 02-carry-crates.jpg
+3. 03-gather-wood.jpg
+4. 04-load-truck.png
+5. 05-workshop-transfer.jpg

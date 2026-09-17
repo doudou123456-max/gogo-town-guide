@@ -1,0 +1,18 @@
+﻿Go-Go Town screenshot sets
+==========================
+
+FOLDER 1: 01-THEME-Go-Go-Town-First-Week
+THEME: Go-Go Town First Week
+  1. 01-meet-town-rep.png
+  2. 02-carry-crates.jpg
+  3. 03-gather-wood.jpg
+  4. 04-load-truck.png
+  5. 05-workshop-transfer.jpg
+
+FOLDER 2: 02-THEME-Go-Go-Town-Opening-Day
+THEME: Go-Go Town Opening Day
+  1. 01-ribbon-cutting.jpg
+  2. 02-wood-carving-shop.jpg
+  3. 03-burger-stand.jpg
+  4. 04-town-group-briefing.jpg
+  5. 05-large-storage-basket.jpg
